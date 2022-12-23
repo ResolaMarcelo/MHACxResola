@@ -1,0 +1,37 @@
+{
+  "name": "mhac",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": ".",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "aos": "2.3.4",
+    "react": "17.0.2",
+    "react-countup": "^6.4.0",
+    "react-dom": "17.0.2",
+    "react-router": "^6.2.1",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.0",
+    "react-scroll": "1.8.4",
+    "react-scroll-trigger": "^0.6.14",
+    "react-smooth-scrolling": "1.0.2",
+    "swiper": "^8.0.3"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
